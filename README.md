@@ -23,7 +23,7 @@ The program consists of following files
 ## Usage
 1. Clone the repository
 ```
-    git clone 
+    git clone br4vetrave1er/Circket-simulation
 ```
 2. Navigate to the project directory
 ```
