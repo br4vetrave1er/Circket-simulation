@@ -9,7 +9,6 @@ class Match:
         self.field = field
         self.umpire = None
         self.commentary = None
-        print(team1, team2)
         self.runs = {team1.name: 0, team2.name: 0}
         self.wickets = {team1.name: 0, team2.name: 0}
 
